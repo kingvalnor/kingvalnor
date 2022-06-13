@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingvalnor
+- 👋 Hi, I’m valnor Pavelus
 - 👀 I’m interested in software development and database 
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on IT projects, database creation, database design and software development,
